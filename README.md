@@ -24,4 +24,7 @@ This project demonstrates how to build and evaluate a taxi fare prediction model
 The provided notebook contains detailed steps and explanations to guide you through the process.  
 
 ## License  
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.  
+
+## Note:  
+If using google colab the required packages will already be installed
